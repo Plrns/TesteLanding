@@ -1,0 +1,5 @@
+Teste realizado por Pedro Lucas - GitHub @Plrns
+
+Foquei em deixar o mais próximo possível do protótipo disponibilizado, porém não consegui deixar responsivo, logo se for utilizar em um celular os textos e divs vão ficar pequenos.
+
+Utilizei o PHPMailer para mandar as informações do formulário para o email, que por sua vez está funcionando corretamente.

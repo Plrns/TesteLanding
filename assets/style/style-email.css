@@ -1,0 +1,29 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+img{
+    width: 200px;
+    height: 130px;
+}
+
+h1{
+    display: block;
+    text-align: center;
+}
+
+p{
+    display:block;
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+}
+
+button{
+    border: none;
+    background-color: #1e90ff;
+    color: white;
+}

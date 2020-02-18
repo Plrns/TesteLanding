@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+.container{
+    width:100%;
+}
+
+.container-conteudo{
+    margin:0px auto;
+    display: block;
+    width:52%;
+}
+
+h1{
+    width:100%;
+    display:block;
+    text-align: center;
+    margin-top:50px;
+}
+
+button{
+    margin:0px auto;
+    display:block;
+    border: none;
+    background-color: dodgerblue;
+    color: white;
+    width: 80px;
+    height:30px;
+    border-radius:5px;
+    margin-top:40px;
+}

@@ -1,0 +1,83 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.topo{
+    bottom: 25px;
+    right: 25px;
+    position: fixed;
+}
+
+#containerMenu{
+    width: 100%;
+    height: 131px;
+    border-bottom: 1px solid black;
+}
+
+.containerItens{
+    width: 40%;
+    margin: 0px auto;
+    height: 130px;
+}
+.logo{
+    width: 200px;
+    height: 130px;
+}
+
+.conteudo{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#descricaoSite{
+    float:left;
+    width:32%;
+    margin-top:60px;
+    color: #169BD5;
+}
+
+#participe{
+    float:right;
+    margin-top: 60px;
+    color:#169BD5;
+}
+
+.containerConteudo{
+    width:100%;
+    height: 930px;
+}
+
+.containerItensConteudo{
+    width:70%;
+    height:900px;
+    margin:0px auto;
+}
+#explicaSite{
+    float:right;
+    width:40%;
+}
+
+#explicaSorteio{
+    float:left;
+    width:50%;
+}
+
+.formulario{
+    float: right;
+    width:40%;
+    margin-top:100px;
+}
+
+input{
+    border-radius:5px;
+    margin-bottom: 15px;
+    width: 250px;    
+}
+
+input[type=submit]{
+    border: none;
+    background-color: dodgerblue;
+    color: white;
+}
